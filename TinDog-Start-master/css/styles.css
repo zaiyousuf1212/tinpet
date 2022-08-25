@@ -1,0 +1,142 @@
+
+#title{ background-color:#ef8172;}
+h1{ font-family: 'Montserrat', sans-serif;
+    font-size:3.5rem;
+    line-height:1.5;
+     font-weight: 900;
+     color:white;
+    }
+
+.container-fluid{
+  padding: 3% 15%;
+  
+
+}
+
+.he{ margin-bottom: 50px;}
+
+
+    
+
+.divd{ background-color: bisque;
+       
+
+
+
+}
+
+.navbar{ padding: 0 0 4.5rem;}
+.botton-download{
+                  margin:5% 3% 5% 0%;
+
+
+}
+.navbar-brand{ font-family: ubunto;
+                font-size: 2.3rem;
+                font-weight: bold;
+
+
+}
+.nav-item{ padding: 0 18px; 
+
+}
+.nav-link{ font-size:1.2rem;
+          font-family:'Montserrat-light';}
+
+
+.image{ transform: rotate(25deg);
+        width: 100%;
+
+}
+
+#features{ padding: 7% 10%;
+           background-color:white;
+           text-align:center;}
+
+.feature-box{
+           padding:4.5%;
+           
+
+}
+
+
+
+.icon{ color:#ef8172;
+       margin-bottom: 1.5rem;
+
+
+}
+.icon:hover{ color:#B9005B;}
+
+
+#testimonials{ 
+                background-color:#ef8172; 
+                text-align: center;
+              
+}
+
+h2{ color: white;
+    font-family:'Montserrat';
+    font-weight:bold;
+    padding-top: 50px;
+    line-height: 4rem;
+    
+    }
+    .testimonial-i{ width: 20%;
+                   border-radius: 100%;
+                   margin-top: 20px;
+
+    }
+    .testimonial-im{ width: 15%;
+      border-radius: 100%;
+      margin-top: 20px;
+    height: 5%;}
+
+    #press{ padding-bottom: 3%;
+      text-align: center;
+      background-color: #ef8172;
+    }
+    .price{ font-size: 2.9rem; 
+            color:white;
+
+    }
+    .prise{ font-size: 2.9rem; 
+      color:#ef8172;}
+      .P{ color: #ef8172;
+         font-family: 'cursive',sans-serif;}
+
+
+    
+    
+
+    .press-logo{width:15%;
+                margin:20px 20px 30px;
+
+    }
+    
+    #pricing{ padding: 100px;
+              text-align: center;
+
+    }
+    .carousel-item{ padding: 7% 15%;
+    }
+    .cp{ padding: 3% 2%;}
+    #cta{ text-align: center;
+             padding: 15% 20% 10% 20%;
+            background-color: #ef8172;
+           }
+   .h{  font-weight: bold;
+            font-family: 'Montserrat', sans-serif;
+            color: white; 
+           font-size: 3rem;
+           line-height: 2;}
+   .b{   margin:5% 1% 5% 0%;}
+
+#footer{ text-align: center;
+    background-color:white;
+      padding: 20% 0 0 4%;}
+    .v{ margin: 10px;}
+    .card-header{ 
+                  background-color: #ef8172;
+    }
+    .btnn:hover{ background-color: #ef8172;}
